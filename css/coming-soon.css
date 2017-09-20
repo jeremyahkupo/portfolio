@@ -50,7 +50,7 @@ body, html {
 
 .nav {
   position: absolute;
-  top: 80%;
+  top: 110%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -100,10 +100,14 @@ body, html {
     height: 30%;
   }
 
+  .nav {
+    top: 80%;
+  }
+
 }
 
 @media only screen and (max-width: 25em) {
-  
+
   .nav li {
     display: block;
   }
