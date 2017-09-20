@@ -101,3 +101,11 @@ body, html {
   }
 
 }
+
+@media only screen and (max-width: 25em) {
+  
+  .nav li {
+    display: block;
+  }
+
+}
