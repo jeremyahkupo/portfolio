@@ -103,6 +103,16 @@ body, html {
   }
 
   .nav {
-
+    left: 50%;
+    top: 60%;
   }
+}
+
+@media only screen and (max-width: 38em) {
+
+  .nav {
+    left: 50%;
+    top: 80%;
+  }
+
 }
