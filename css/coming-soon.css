@@ -30,6 +30,8 @@ body, html {
   font-family: "Playfair Display", serif;
   font-weight: 900;
   font-size: 25px;
+  padding-bottom: 30%;
+  padding-top: 30%;
 }
 
 .image-right {
@@ -50,14 +52,13 @@ body, html {
 
 .nav {
   position: absolute;
-  top: 110%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
   color: black;
   font-family: "Playfair Display", serif;
   font-weight: 900;
-  font-size: 15px;
+  font-size: 12px;
   margin: 0;
   padding: 0;
   list-style-type: none;
